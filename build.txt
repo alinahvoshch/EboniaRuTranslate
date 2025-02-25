@@ -1,3 +1,0 @@
-displayName = Ebonian Mod Russian Path
-author = Тефтельник & nana Team
-version = 2.0
