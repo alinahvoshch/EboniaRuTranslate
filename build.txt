@@ -1,3 +1,5 @@
 displayName = Ebonian Mod Russian Path
 author = Тефтельник & nana Team
 version = 2.0
+translationMod = true
+weakReferences = EbonianMod@1.1.2
