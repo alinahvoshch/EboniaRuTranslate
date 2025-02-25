@@ -1,0 +1,3 @@
+displayName = Ebonian Ru Translate - Ebonian Mod на Русском
+author = Тефтельник
+version = 1.0.1
